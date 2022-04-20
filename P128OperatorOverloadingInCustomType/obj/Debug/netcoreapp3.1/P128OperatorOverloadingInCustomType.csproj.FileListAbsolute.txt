@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\bin\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.exe
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\bin\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.deps.json
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\bin\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\bin\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\bin\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.dll
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\bin\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.pdb
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\obj\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\obj\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\obj\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\obj\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\obj\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\obj\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.dll
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\obj\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.pdb
+C:\Users\memme\Desktop\P128\Task\P128OperatorOverloadingInCustomType\obj\Debug\netcoreapp3.1\P128OperatorOverloadingInCustomType.genruntimeconfig.cache

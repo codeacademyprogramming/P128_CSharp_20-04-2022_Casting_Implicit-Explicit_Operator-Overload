@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\bin\Debug\netcoreapp3.1\P128ObjectCasting.exe
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\bin\Debug\netcoreapp3.1\P128ObjectCasting.deps.json
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\bin\Debug\netcoreapp3.1\P128ObjectCasting.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\bin\Debug\netcoreapp3.1\P128ObjectCasting.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\bin\Debug\netcoreapp3.1\P128ObjectCasting.dll
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\bin\Debug\netcoreapp3.1\P128ObjectCasting.pdb
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\obj\Debug\netcoreapp3.1\P128ObjectCasting.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\obj\Debug\netcoreapp3.1\P128ObjectCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\obj\Debug\netcoreapp3.1\P128ObjectCasting.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\obj\Debug\netcoreapp3.1\P128ObjectCasting.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\obj\Debug\netcoreapp3.1\P128ObjectCasting.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\obj\Debug\netcoreapp3.1\P128ObjectCasting.dll
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\obj\Debug\netcoreapp3.1\P128ObjectCasting.pdb
+C:\Users\memme\Desktop\P128\Task\P128ObjectCasting\obj\Debug\netcoreapp3.1\P128ObjectCasting.genruntimeconfig.cache

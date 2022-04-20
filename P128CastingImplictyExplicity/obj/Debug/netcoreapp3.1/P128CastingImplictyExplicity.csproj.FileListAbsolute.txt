@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\bin\Debug\netcoreapp3.1\P128CastingImplictyExplicity.exe
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\bin\Debug\netcoreapp3.1\P128CastingImplictyExplicity.deps.json
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\bin\Debug\netcoreapp3.1\P128CastingImplictyExplicity.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\bin\Debug\netcoreapp3.1\P128CastingImplictyExplicity.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\bin\Debug\netcoreapp3.1\P128CastingImplictyExplicity.dll
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\bin\Debug\netcoreapp3.1\P128CastingImplictyExplicity.pdb
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\obj\Debug\netcoreapp3.1\P128CastingImplictyExplicity.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\obj\Debug\netcoreapp3.1\P128CastingImplictyExplicity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\obj\Debug\netcoreapp3.1\P128CastingImplictyExplicity.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\obj\Debug\netcoreapp3.1\P128CastingImplictyExplicity.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\obj\Debug\netcoreapp3.1\P128CastingImplictyExplicity.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\obj\Debug\netcoreapp3.1\P128CastingImplictyExplicity.dll
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\obj\Debug\netcoreapp3.1\P128CastingImplictyExplicity.pdb
+C:\Users\memme\Desktop\P128\Task\P128CastingImplictyExplicity\obj\Debug\netcoreapp3.1\P128CastingImplictyExplicity.genruntimeconfig.cache
